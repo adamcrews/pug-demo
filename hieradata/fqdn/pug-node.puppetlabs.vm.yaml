@@ -1,0 +1,7 @@
+---
+classes:
+  - minecraft
+
+minecraft::download_src: Minecraft.Download/versions/1.7.4/minecraft_server.1.7.4.jar
+
+
