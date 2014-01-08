@@ -1,6 +1,7 @@
 ---
 classes:
   - pe_mcollective
+  - ntp
 
 ntp::servers:
   - 0.pool.ntp.org
